@@ -1,0 +1,24 @@
+table {
+    font-family: sans-serif;
+    border: 3px solid black;
+    border-spacing: 0cap;
+    border-collapse: collapse;
+}
+
+caption {
+    font-size: larger;
+    font-weight: bold;
+    border: 3px solid black;
+    border-bottom: none;
+}
+
+td,
+th {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.red {
+    color: red;
+    text-align: right;
+}
