@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+label {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.fiel-fon {
+    border-radius: 10px;
+    border-width: 6px;
+}
+
+.form {
+    width: 500px;
+    height: auto;
+}
+
+.fiel-text {
+    border: 0px;
+}
+
+.fi {
+    border: 0px;
+    cursor: pointer;
+}
+
+.input {
+    border-radius: 5px;
+    width: 400px;
+    height: 40px;
+}
+
+textarea {
+    resize: vertical;
+    max-height: 100px;
+    min-height: 30px;
+}
